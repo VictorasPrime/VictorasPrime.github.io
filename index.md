@@ -1,7 +1,7 @@
 # [Numele Tău]
 [Total Station image]()![ts](https://github.com/VictorasPrime/VictorasPrime.github.io/assets/148759297/a3ae4ee0-48b6-4821-af75-51869312f929)
 
-[Afla mai multe aici:](about_.md)
+[Afla mai multe aici:](/about_.md)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
