@@ -1,4 +1,5 @@
 # [Numele Tău]
+[Total Sration image](assets/png/ts.png)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
