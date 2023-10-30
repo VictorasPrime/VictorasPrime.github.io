@@ -1,5 +1,5 @@
 # [Numele Tău]
-[Total Station image](assets/png/ts.png)
+[Total Station image](/assets/img/ts.png)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
